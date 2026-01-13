@@ -1,3 +1,4 @@
+import { NavBar } from "../components/NavBar";
 import { ThemeToggle } from "../components/ThemeToggle";
 
 export const Home = () => {
@@ -9,6 +10,7 @@ export const Home = () => {
     {/* Backgorund Effects*/}
 
     {/* NavBar */}
+    <NavBar />
 
     {/* Main Content */}
     
