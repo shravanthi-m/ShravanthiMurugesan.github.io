@@ -24,7 +24,8 @@ const projects = [
     id: 3,
     title: "Meal Planner",
     description: "A full-stack web app for building weekly meal plans. Integrates the Spoonacular and Fat Secret APIs for recipe data, with server-side caching, secure user authentication, dynamic shopping list generation, and a responsive UI. Built with React, Node.js, and MongoDB.",
-    image: "/projects/meal-planner.png",
+    // image: "/projects/meal-planner.png",
+    video: "/projects/meal-planner.mp4",
     tags: ["React", "Node.js", "MongoDB", "REST API"],
     link: "https://github.com/shravanthi-m/MealPlanner",
     // demo: ""   ← no live demo
